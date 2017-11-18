@@ -1,0 +1,4 @@
+curl -s -H "Content-Type: application/json" \
+-H "Authorization: Bearer ya29.GlsHBVmwi4L1jORuKX0wrDPHYHX8yWkYX1t6uSPf4BH98GSWjozAOxjs8jYtr5vARNC8Q0lW3KYfYll2jMvyh7DEbXQ7oWXt3EK4dhnToxfki9YstDwsmZyBjg98" \
+https://speech.googleapis.com/v1/speech:recognize \
+-d @request.json
