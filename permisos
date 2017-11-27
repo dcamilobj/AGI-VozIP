@@ -1,0 +1,1 @@
+grant all privileges on biblioteca.* to usuario@localhost identified by '$clave' with grant option;
